@@ -1,0 +1,7 @@
+torch==2.2.2
+torchaudio==2.2.2
+numpy==2.2.2
+scikit-learn==1.6.1
+pydub==0.25.1
+pathlib==1.0.1
+ruff==0.9.4
